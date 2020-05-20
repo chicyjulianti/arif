@@ -15,7 +15,7 @@
     { "id": 13, "title": "https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rtv.png" },
     { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/berita1.png" },
     { "id": 15, "title": "https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/inews.png" },
-    { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
+    { "id": 16, "title": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
     { "id": 17, "title": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
     { "id": 18, "title": "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/aditv1.png" },
     { "id": 19, "title": "https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mytv.png" },
