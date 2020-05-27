@@ -29,7 +29,7 @@
     { "id": 27, "title": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/redbull.png" },
     { "id": 28, "title": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeowild.png" },
     { "id": 29, "title": "http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeo2.png" }, 
-    { "id": 30, "title": "https://drive.google.com/file/d/1TXGn7DfIN8Axo0GTKeJEF9tQLXznnDCz/view?usp=drivesdk", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/boomerang2.png" }  
+    { "id": 30, "title": "https://drive.google.com/uc?id=1TXGn7DfIN8Axo0GTKeJEF9tQLXznnDCz", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/boomerang2.png" }  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
