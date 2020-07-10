@@ -1,11 +1,11 @@
 {
   "indo": [
-    { "id": 1, "title": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
-    { "id": 2, "title": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
-    { "id": 3, "title": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
-    { "id": 4, "title": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
-    { "id": 5, "title": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
-    { "id": 6, "title": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png" },
+    { "id": 1, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
+    { "id": 2, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
+    { "id": 3, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
+    { "id": 4, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
+    { "id": 5, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
+    { "id": 6, "title": "https://www.useetv.com/livetv/rrinet", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png" },
     { "id": 7, "title": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png" },
     { "id": 8, "title": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png" },
     { "id": 9, "title": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/trans7.png" },
